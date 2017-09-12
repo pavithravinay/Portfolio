@@ -1,0 +1,92 @@
+#exp-border {
+    border: 0.5px solid #E9ECEF;
+    padding: 0;
+}
+
+/*#pv {*/
+/*    width: 25%;*/
+/*    height: 25%;*/
+/*    border-radius: 50%;*/
+/*    -webkit-transform: rotate(90deg);*/
+/*}*/
+
+#exp-content {
+    padding: 25px;
+}
+
+#resume {
+    margin: 20px auto;
+    width:100px;
+}
+
+#cs-student {
+    color: #38504F;
+}
+
+#find-out-more:hover {
+    color: white;
+    border-color: #F19828;
+    background-color: #38504F; 
+}
+
+.table-header {
+    background-color: #F19828;
+}
+
+.exp-hr {
+    max-width: 100%;
+    border-width: 0.1px;
+    border-color: #F19828;
+    padding-bottom: 10px;
+    /*opacity: 0.5;*/
+}
+
+.fill {
+    height: 50px;
+    padding: 0;
+}
+
+.job-title {
+    /*height: 60px;*/
+    background-color: #F19828;
+    padding: 10px;
+    margin: 10px;
+    color: #fff;
+}
+
+.project-desc {
+    font-size: 14px;
+}
+
+.bg-original {
+    color: white;
+}
+
+.original {
+    color: #38504F;
+    padding-top: 50px;
+}
+
+.portfolio-project-name {
+    padding-bottom: 30px;
+}
+
+.skills-icon {
+    display: inline;
+}
+
+.btn-custom {
+    text-transform: none;
+}
+
+.bg-black {
+    background-color: #000;
+}
+
+.degree {
+    color: #F19828;
+}
+
+.space-left {
+    padding-left: 10px;
+}
